@@ -26,3 +26,7 @@ I compiled directly on the ev3dev linux dist.
 ## Running
 
 If mjpg-streamer is working it should be possible to start using `./start-clev3r-web.sh`.
+It should be possible to reach the car using [http://ev3dev.local:8081](http://ev3dev.local:8081).
+Please bare in mind that video-stream is running on [http://ev3dev.local:8080/?action=stream](http://ev3dev.local:8080/?action=stream).
+
+There are no security things whatsoever!
