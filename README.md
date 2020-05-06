@@ -1,6 +1,9 @@
 ### CLEV3R CAR WEB BASED
 ![Side image of car](side.jpg)
 ![Front image of car](front.jpg)
+
+[Video](https://youtu.be/DlZdMLQ1wu0)
+
 This repository contain two ways of driving the car.
 
 * Using PS4 Dualshock controller. I borrowed some code from [How to connect a PS4 Dualshock 4 controller to your MINDSTORMS EV3 brick with Bluetooth](https://www.antonsmindstorms.com/2020/02/14/how-to-connect-a-ps4-dualshock-4-controller-to-your-mindstorms-ev3-brick-with-bluetooth/)
